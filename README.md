@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+stupid student
+
+wait to be updated
+
 <!--
 **d3ac/d3ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
