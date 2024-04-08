@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我觉得我的个人信息在暑假前要好好更新一下，挖一个坑
+
 
 <!--
 **d3ac/d3ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
